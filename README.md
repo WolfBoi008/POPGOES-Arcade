@@ -13,7 +13,7 @@ When I heard the game was getting it's final update in July, I felt it. The urge
 - Keys for Dead Forest and Dead King Freddy's Castle
 - Progressive Attack Upgrades
 - Progressive Health Upgrades
-- Paint (changes how POPGOES looks, needed for 100% completion, cosmetic otherwise)
+- Paint (Needed for 100% completion, cosmetic otherwise)
 - Emerald Coins
 - Progressive Jump Upgrades
 - Progressive Hook Upgrades
