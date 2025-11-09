@@ -1,0 +1,11 @@
+{
+    "Gilded Enemies": {
+        "yaml_option": ["gilded_enemy_checks"]
+    },
+    "Fruitsanity": {
+        "yaml_option": ["fruitsanity"]
+    },
+    "Digsanity": {
+        "yaml_option": ["digsanity"]
+    }
+}

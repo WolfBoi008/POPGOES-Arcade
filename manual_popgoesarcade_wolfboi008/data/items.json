@@ -1,0 +1,363 @@
+[
+  {
+    
+		"count": "27",
+    
+		"name": "Dead Forest Health Upgrade",
+    
+		"category": [
+      "Upgrades",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true,
+    "value": {"battle_points": 1}
+  },
+  {
+    
+		"count": "13",
+    
+		"name": "Dead Forest Attack Upgrade",
+    
+		"category": [
+      "Upgrades",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true,
+    "value": {"battle_points": 1}
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Yellow Gate Key",
+    
+		"category": [
+      "Gate Keys",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Red Gate Key",
+    
+		"category": [
+      "Gate Keys",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Blue Gate Key",
+    
+		"category": [
+      "Gate Keys",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Jump",
+    
+		"category": [
+      "Abilities",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Progressive Jump Upgrade",
+    
+		"category": [
+      "Upgrades",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Hook",
+    
+		"category": [
+      "Abilities",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Progressive Hook Upgrade",
+    
+		"category": [
+      "Upgrades",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Dig",
+    
+		"category": [
+      "Abilities",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Progressive Dig Upgrade",
+    
+		"category": [
+      "Upgrades",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "12",
+    
+		"name": "Emerald Coin",
+    
+		"category": [
+      "Currrency",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Yellow Door Key",
+    
+		"category": [
+      "Door Keys",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Red Door Key",
+    
+		"category": [
+      "Door Keys",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Blue Door Key",
+    
+		"category": [
+      "Door Keys",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "??? Key",
+    
+		"category": [
+      "???",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Super Speed",
+    
+		"category": [
+      "Abilities",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Money Boots",
+    
+		"category": [
+      "Abilities",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Spiky Shield",
+    
+		"category": [
+      "Abilities",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"progression": true
+  },
+  {
+    "name": "Blue Paint",
+    "count": 1,
+    "category": [
+      "Paints",
+      "POPGOES: The Dead Forest"
+    ],
+    "progression": true
+
+  },
+  {
+    "name": "Red Paint",
+    "count": 1,
+    "category": [
+      "Paints",
+      "POPGOES: The Dead Forest"
+    ],
+    "progression": true
+
+  },
+  {
+    "name": "Pink Paint",
+    "count": 1,
+    "category": [
+      "Paints",
+      "POPGOES: The Dead Forest"
+    ],
+    "progression": true
+
+  },
+  {
+    "name": "Yellow Paint",
+    "count": 1,
+    "category": [
+      "Paints",
+      "POPGOES: The Dead Forest"
+    ],
+    "progression": true
+
+  },
+  {
+    "name": "Acorn",
+    "count": 1,
+    "category": [
+      "Items",
+      "POPGOES: The Dead Forest"
+    ],
+    "progression": true,
+    "value": {"battle_points": 1}
+  },
+  {
+    "name": "Fruit",
+    "count": 1,
+    "category": [
+      "Items",
+      "POPGOES: The Dead Forest"
+    ],
+    "progression": true,
+    "value": {"battle_points": 2}
+  },
+  {
+    "name": "Pizza",
+    "count": 1,
+    "category": [
+      "Items",
+      "POPGOES: The Dead Forest"
+    ],
+    "progression": true,
+    "value": {"battle_points": 3}
+  },
+  {
+    "name": "ATK Up Consumable",
+    "count": 1,
+    "category": [
+      "Items",
+      "POPGOES: The Dead Forest"
+    ],
+    "progression": true,
+    "value": {"battle_points": 1}
+  },
+  {
+    "name": "DEF Up Consumable",
+    "count": 1,
+    "category": [
+      "Items",
+      "POPGOES: The Dead Forest"
+    ],
+    "progression": true,
+    "value": {"battle_points": 2}
+  },
+  {
+    "name": "Shield Consumable",
+    "count": 1,
+    "category": [
+      "Items",
+      "POPGOES: The Dead Forest"
+    ],
+    "progression": true,
+    "value": {"battle_points": 3}
+  },
+  {
+    "name": "Consumable Capacity",
+    "count": 8,
+    "category": [
+      "Items",
+      "POPGOES: The Dead Forest"
+    ],
+    "useful": true
+  }
+  
+  
+  
+]

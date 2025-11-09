@@ -1,0 +1,1846 @@
+[
+  {
+    
+		"region": "Enemies",
+    
+		"name": "Corrupt Deer",
+    
+		"category": [
+      "Enemies",
+      "West Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"region": "Enemies",
+    
+		"name": "Corrupt Hawk",
+    
+		"category": [
+      "Enemies",
+      "West Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:1| AND |Dead Forest Attack Upgrade:1|"
+  },
+  {
+    
+		"name": "Corrupt Hedgehog",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Enemies",
+      "West Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:3|"
+  },
+  {
+    
+		"name": "Corrupt Chica",
+    
+		"region": "Bosses",
+    
+		"category": [
+      "Bosses",
+      "West Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptChica()}"
+  },
+  {
+    
+		"name": "Blue Paint",
+    
+		"region": "Items",
+    
+		"category": [
+      "Paints",
+      "South Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Corrupt Boar",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Enemies",
+      "South Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:1| AND |Dead Forest Attack Upgrade:1|"
+  },
+  {
+    
+		"name": "Corrupt Cat",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Enemies",
+      "South Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:4| AND |Dead Forest Attack Upgrade:2|"
+  },
+  {
+    
+		"name": "Corrupt Woodpecker",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Enemies",
+      "South Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:6| AND |Dead Forest Attack Upgrade:3|"
+  },
+  {
+    
+		"name": "Corrupt Foxy",
+    
+		"region": "Bosses",
+    
+		"category": [
+      "Bosses",
+      "South Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptFoxy()}"
+  },
+  {
+    
+		"name": "Corrupt Owl",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Enemies",
+      "East Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:4| AND |Dead Forest Attack Upgrade:2|"
+  },
+  {
+    
+		"name": "Corrupt Beaver",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Enemies",
+      "East Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:6| AND |Dead Forest Attack Upgrade:3|"
+  },
+  {
+    
+		"name": "Corrupt Wolf",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Enemies",
+      "East Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:10| AND |Dead Forest Attack Upgrade:5|"
+  },
+  {
+    
+		"name": "Corrupt Bonnie",
+    
+		"region": "Bosses",
+    
+		"category": [
+      "Bosses",
+      "East Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBonnie()}"
+  },
+  {
+    
+		"name": "Dead Deer",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Enemies",
+      "Dead Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBonnie()} AND |@Gate Keys:3| AND |Dead Forest Health Upgrade:6| AND |Dead Forest Attack Upgrade:3|"
+  },
+  {
+    
+		"name": "Dead Boar",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Enemies",
+      "Dead Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBonnie()} AND |@Gate Keys:3| AND |Dead Forest Health Upgrade:10| AND |Dead Forest Attack Upgrade:5|"
+  },
+  {
+    
+		"name": "Dead Owl",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Enemies",
+      "Dead Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBonnie()} AND |@Gate Keys:3| AND |Dead Forest Health Upgrade:16| AND |Dead Forest Attack Upgrade:8|"
+  },
+  {
+    
+		"name": "Corrupt BB",
+    
+		"region": "Bosses",
+    
+		"category": [
+      "Bosses",
+      "Dead Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBB()}"
+  },
+  {
+    
+		"region": "BB's Black Market",
+    
+		"name": "Super Speed",
+    
+		"category": [
+      "BB's Black Market",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBB()} AND |Dead Forest Health Upgrade:22| AND |Dead Forest Attack Upgrade:8| AND |Super Speed|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Money Boots",
+    
+		"region": "BB's Black Market",
+    
+		"category": [
+      "BB's Black Market",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBB()} AND |Dead Forest Health Upgrade:27| AND |Dead Forest Attack Upgrade:13| AND |Money Boots|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Spiky Shield",
+    
+		"region": "BB's Black Market",
+    
+		"category": [
+      "BB's Black Market",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBB()} AND |Dead Forest Health Upgrade:27| AND |Dead Forest Attack Upgrade:13| AND |Spiky Shield|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Yellow Gate Key Chest",
+    
+		"region": "Items",
+    
+		"category": [
+      "Gate Keys",
+      "West Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptChica()}"
+  },
+  {
+    
+		"name": "Red Gate Key Chest",
+    
+		"region": "Items",
+    
+		"category": [
+      "Gate Keys",
+      "South Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptFoxy()}"
+  },
+  {
+    
+		"name": "Blue Gate Key Chest",
+    
+		"region": "Items",
+    
+		"category": [
+      "Gate Keys",
+      "East Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBonnie()}"
+  },
+  {
+    
+		"category": [
+      "Enemies",
+      "West Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBB()} AND |Dead Forest Health Upgrade:10| AND |Dead Forest Attack Upgrade:5|",
+    
+		"name": "Corrupt Deer+",
+    
+		"region": "Enemies"
+  },
+  {
+    
+		"category": [
+      "Enemies",
+      "West Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBB()} AND |Dead Forest Health Upgrade:16| AND |Dead Forest Attack Upgrade:11|",
+    
+		"name": "Corrupt Hawk+",
+    
+		"region": "Enemies"
+  },
+  {
+    
+		"category": [
+      "Enemies",
+      "West Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBB()} AND |Dead Forest Health Upgrade:22| AND |Dead Forest Attack Upgrade:8|",
+    
+		"name": "Corrupt Hedgehog+",
+    
+		"region": "Enemies"
+  },
+  {
+    
+		"category": [
+      "Bosses",
+      "West Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadChica()}",
+    
+		"name": "Dead Chica",
+    
+		"region": "Bosses"
+  },
+  {
+    
+		"category": [
+      "Abilities",
+      "West Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadChica()}",
+    
+		"name": "Chica's Pitchfork (Jump)",
+    
+		"region": "Abilities"
+  },
+  {
+    
+		"category": [
+      "Enemies",
+      "South Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBB()} AND |Dead Forest Health Upgrade:16| AND |Dead Forest Attack Upgrade:8|",
+    
+		"name": "Corrupt Boar+",
+    
+		"region": "Enemies"
+  },
+  {
+    
+		"category": [
+      "Enemies",
+      "South Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBB()} AND |Dead Forest Health Upgrade:22| AND |Dead Forest Attack Upgrade:11|",
+    
+		"name": "Corrupt Cat+",
+    
+		"region": "Enemies"
+  },
+  {
+    
+		"category": [
+      "Enemies",
+      "South Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBB()} AND |Dead Forest Health Upgrade:27| AND |Dead Forest Attack Upgrade:13|",
+    
+		"name": "Corrupt Woodpecker+",
+    
+		"region": "Enemies"
+  },
+  {
+    
+		"category": [
+      "Bosses",
+      "South Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadFoxy()}",
+    
+		"name": "Dead Foxy",
+    
+		"region": "Bosses"
+  },
+  {
+    
+		"category": [
+      "Abilities",
+      "South Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadFoxy()}",
+    
+		"name": "Foxy's Hook (Hook)",
+    
+		"region": "Abilities"
+  },
+  {
+    
+		"category": [
+      "Enemies",
+      "East Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBB()} AND |Dead Forest Health Upgrade:22| AND |Dead Forest Attack Upgrade:11|",
+    
+		"name": "Corrupt Owl+",
+    
+		"region": "Enemies"
+  },
+  {
+    
+		"category": [
+      "Enemies",
+      "East Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBB()} AND |Dead Forest Health Upgrade:27| AND |Dead Forest Attack Upgrade:13|",
+    
+		"name": "Corrupt Beaver+",
+    
+		"region": "Enemies"
+  },
+  {
+    
+		"name": "Corrupt Wolf+",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Enemies",
+      "East Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBB()} AND |Dead Forest Health Upgrade:27| AND |Dead Forest Attack Upgrade:13|"
+  },
+  {
+    
+		"name": "Dead Bonnie",
+    
+		"region": "Bosses",
+    
+		"category": [
+      "Bosses",
+      "East Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadBonnie()}"
+  },
+  {
+    
+		"name": "Bonnie's Shovel (Dig)",
+    
+		"region": "Abilities",
+    
+		"category": [
+      "Abilities",
+      "East Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadBonnie()}"
+  },
+  {
+    
+		"name": "Red Paint",
+    
+		"region": "Items",
+    
+		"category": [
+      "Paints",
+      "South Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadChica()} AND |Jump|"
+  },
+  {
+    
+		"name": "Yellow Door Key Chest",
+    
+		"region": "Forest Keys",
+    
+		"category": [
+      "Keys",
+      "South Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadChica()} AND |Jump|"
+  },
+  {
+    
+		"name": "Pink Paint",
+    
+		"region": "Items",
+    
+		"category": [
+      "Paints",
+      "East Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadChica()} AND |Jump|"
+  },
+  {
+    
+		"name": "Emerald Coin Chest 1",
+    
+		"region": "Items",
+    
+		"category": [
+      "Items",
+      "East Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadChica()} AND |Jump|"
+  },
+  {
+    
+		"name": "Shield Item Chest",
+    
+		"region": "Items",
+    
+		"category": [
+      "Items",
+      "Dead Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadChica()} AND |Jump|"
+  },
+  {
+    
+		"name": "Red Door Key Chest",
+    
+		"region": "Forest Keys",
+    
+		"category": [
+      "Keys",
+      "East Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadFoxy()} AND |Hook|"
+  },
+  {
+    
+		"name": "Attack Item Chest",
+    
+		"region": "Items",
+    
+		"category": [
+      "Items",
+      "Dead Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadFoxy()} AND |Hook|"
+  },
+  {
+    
+		"name": "Defense Item Chest",
+    
+		"region": "Items",
+    
+		"category": [
+      "Items",
+      "Dead Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadBonnie()} AND |Dig|"
+  },
+  {
+    
+		"name": "Blue Door Key Chest",
+    
+		"region": "Forest Keys",
+    
+		"category": [
+      "Keys",
+      "West Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadBonnie()} AND |Dig|"
+  },
+  {
+    
+		"name": "Emerald Coin in Well",
+    
+		"region": "Items",
+    
+		"category": [
+      "Items",
+      "South Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadBonnie()} AND |Dig|"
+  },
+  {
+    
+		"name": "Emerald Coin from Sara",
+    
+		"region": "Items",
+    
+		"category": [
+      "Items",
+      "Garden",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadBonnie()} AND |@Door Keys:3|"
+  },
+  {
+    
+		"name": "Dead Deer+",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Enemies",
+      "Dead Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadBonnie()} AND |Dead Forest Health Upgrade:27| AND |Dead Forest Attack Upgrade:13|"
+  },
+  {
+    
+		"name": "Dead Boar+",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Enemies",
+      "Dead Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadBonnie()} AND |Dead Forest Health Upgrade:27| AND |Dead Forest Attack Upgrade:13|"
+  },
+  {
+    
+		"name": "Dead Owl+",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Enemies",
+      "Dead Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadBonnie()} AND |Dead Forest Health Upgrade:27| AND |Dead Forest Attack Upgrade:13|"
+  },
+  {
+    "name": "DFC Freestanding Emerald Coin 1",
+    "region": "Items",
+    "category": [
+      "Items",
+      "Dead Forest Castle",
+      "POPGOES: The Dead Forest"
+    ],
+    "requires": "{defeatDeadBonnie()} AND |@Door Keys:3|"
+  },
+  {
+    "name": "DFC Freestanding Emerald Coin 2",
+    "region": "Items",
+    "category": [
+      "Items",
+      "Dead Forest Castle",
+      "POPGOES: The Dead Forest"
+    ],
+    "requires": "{defeatDeadBonnie()} AND |@Door Keys:3|"
+  },
+  {
+    
+		"name": "??? Key",
+    
+		"region": "Items",
+    
+		"category": [
+      "Items",
+      "Dead Forest Castle",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadBonnie()} AND |@Door Keys:3|"
+  },
+  {
+    
+		"name": "Defeat Dead King Freddy",
+    
+		"region": "Bosses",
+    
+		"category": [
+      "Bosses",
+      "Dead Forest Castle",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadKingFreddy()}",
+
+    "victory": true
+  },
+  {
+    
+		"name": "Dead King Freddy",
+    
+		"region": "Bosses",
+    
+		"category": [
+      "Bosses",
+      "Dead Forest Castle",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadKingFreddy()}"
+  },
+  {
+    
+		"name": "Yellow Paint",
+    
+		"region": "Items",
+    
+		"category": [
+      "Paints",
+      "West Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadFoxy()} AND |Hook|"
+  },
+  {
+    
+		"name": "Emerald Coin Chest 2",
+    
+		"region": "Items",
+    
+		"category": [
+      "Items",
+      "West Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadFoxy()} AND |Hook|"
+  },
+  {
+    
+		"name": "WF Freestanding Emerald Coin 1",
+    
+		"region": "Items",
+    
+		"category": [
+      "Items",
+      "West Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadChica()}"
+  },
+  {
+    
+		"name": "WF Freestanding Emerald Coin 2",
+    
+		"region": "Items",
+    
+		"category": [
+      "Items",
+      "West Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadChica()}"
+  },
+  {
+    
+		"name": "SF Freestanding Emerald Coin 1",
+    
+		"region": "Items",
+    
+		"category": [
+      "Items",
+      "South Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadChica()}"
+  },
+  {
+    
+		"name": "SF Freestanding Emerald Coin 2",
+    
+		"region": "Items",
+    
+		"category": [
+      "Items",
+      "South Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadChica()}"
+  },
+  {
+    
+		"name": "EF Freestanding Emerald Coin 1",
+    
+		"region": "Items",
+    
+		"category": [
+      "Items",
+      "East Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadChica()}"
+  },
+  {
+    
+		"name": "EF Freestanding Emerald Coin 2",
+    
+		"region": "Items",
+    
+		"category": [
+      "Items",
+      "East Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadChica()}"
+  },
+  {
+    
+		"name": "Gilded Dead Deer",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Gilded Enemies",
+      "Dead Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBonnie()} AND |@Gate Keys:3|"
+  },
+  {
+    
+		"name": "Gilded Corrupt Hawk",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Gilded Enemies",
+      "West Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Gilded Dead Boar",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Gilded Enemies",
+      "Dead Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBonnie()} AND |@Gate Keys:3|"
+  },
+  {
+    
+		"name": "Gilded Cat",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Gilded Enemies",
+      "South Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Gilded Dead Owl",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Gilded Enemies",
+      "Dead Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatCorruptBonnie()} AND |@Gate Keys:3|"
+  },
+  {
+    
+		"name": "Gilded Beaver",
+    
+		"region": "Enemies",
+    
+		"category": [
+      "Gilded Enemies",
+      "East Forest",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"region": "Abilities",
+    
+		"name": "Harvest",
+    
+		"category": [
+      "Abilities",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadChica()} AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"region": "Abilities",
+    
+		"name": "Jump (Battle)",
+    
+		"category": [
+      "Abilities",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadChica()} AND |Jump| AND |Emerald Coin:4| AND |Progressive Jump Upgrade:2|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"region": "Abilities",
+    
+		"name": "Escape",
+    
+		"category": [
+      "Abilities",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadFoxy()} AND |Hook| AND |Emerald Coin:6| AND |Progressive Hook Upgrade:1|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"region": "Abilities",
+    
+		"name": "Hook (Battle)",
+    
+		"category": [
+      "Abilities",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadFoxy()} AND |Hook| AND |Emerald Coin:8| AND |Progressive Hook Upgrade:2|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"region": "Abilities",
+    
+		"name": "Shortcut",
+    
+		"category": [
+      "Abilities",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadBonnie()} AND |Dig| AND |Emerald Coin:10| AND |Progressive Dig Upgrade:1|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"region": "Abilities",
+    
+		"name": "Dig (Battle)",
+    
+		"category": [
+      "Abilities",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadBonnie()} AND |Dig| AND |Emerald Coin:12| AND |Progressive Dig Upgrade:2|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 1",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:1|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 2",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:2|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 3",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:3|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 4",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:4|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 5",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:5|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 6",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:6|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 7",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:7|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 8",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:8|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 9",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:9|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 10",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:10|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 11",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:11|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 12",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:12|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 13",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:13|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 14",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:14|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 15",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:15|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 16",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:16|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 17",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:17|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 18",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:18|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 19",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:19|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 20",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:20|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 21",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:21|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 22",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:22|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 23",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:23|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 24",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:24|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 25",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:25|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 26",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:26|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Health Upgrade 27",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Health Upgrade:27|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Attack Upgrade 1",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Attack Upgrade:1|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Attack Upgrade 2",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Attack Upgrade:2|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Attack Upgrade 3",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Attack Upgrade:3|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Attack Upgrade 4",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Attack Upgrade:4|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Attack Upgrade 5",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Attack Upgrade:5|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Attack Upgrade 6",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Attack Upgrade:6|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Attack Upgrade 7",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Attack Upgrade:7|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Attack Upgrade 8",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Attack Upgrade:8|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Attack Upgrade 9",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Attack Upgrade:9|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Attack Upgrade 10",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Attack Upgrade:10|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Attack Upgrade 11",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Attack Upgrade:11|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Attack Upgrade 12",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Attack Upgrade:12|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Attack Upgrade 13",
+    
+		"region": "Holly's Shop",
+    
+		"category": [
+      "Holly's Shop",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "|Dead Forest Attack Upgrade:13|",
+		 
+		"prehint": true
+  },
+  {
+    
+		"name": "Save Bonnie",
+    
+		"region": "Bosses",
+    
+		"category": [
+      "???",
+      "POPGOES: The Dead Forest"
+    ],
+    
+		"requires": "{defeatDeadBonnie()} AND |@Door Keys:3| AND |??? Key|"
+  },
+  {
+    "name": "100%",
+    "category": ["POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadKingFreddy()} AND |??? Key| AND |@Abilities:6| AND |@Upgrades:46| AND |Emerald Coin:12| AND |@Paints:4|",
+    "victory": true
+  },
+  {
+    "name": "Fruit 1",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "West Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadChica()} AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+  },
+  {
+    "name": "Fruit 2",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "West Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadChica()} AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+  },
+  {
+    "name": "Fruit 3",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "West Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadChica()} AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+  },
+  {
+    "name": "Fruit 4",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "West Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadChica()} AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+  },
+  {
+    "name": "Fruit 5",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "South Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadChica()} AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+  },
+  {
+    "name": "Fruit 6",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "South Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadChica()} AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+  },
+  {
+    "name": "Fruit 7",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "South Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadChica()} AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+  },
+  {
+    "name": "Fruit 8",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "South Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadChica()} AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+  },
+  {
+    "name": "Fruit 9",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "South Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadChica()} AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+  },
+  {
+    "name": "Fruit 10",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "South Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadChica()} AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+  },
+  {
+    "name": "Fruit 11",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "East Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadChica()} AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+  },
+  {
+    "name": "Fruit 12",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "East Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadChica()} AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+  },
+  {
+    "name": "Fruit 13",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "East Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadChica()} AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+  },
+  {
+    "name": "Fruit 14",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "East Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadChica()} AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+  },
+  {
+    "name": "Fruit 15",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "East Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadChica()} AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+  },
+  {
+    "name": "Fruit 16",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "West Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadFoxy()} AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1| AND |Hook|"
+  },
+  {
+    "name": "Fruit 17",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "East Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadFoxy()} AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1| AND |Hook|"
+  },
+  {
+    "name": "Fruit 18",
+    "region": "Fruitsanity",
+    "category": ["Fruitsanity", "West Forest", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadBonnie()} AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1| AND |Dig|"
+  },
+  {
+    "name": "Acorn (Digsanity)",
+    "region": "Digsanity",
+    "category": ["Digsanity", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadBonnie()} AND |Dig| AND |Emerald Coin:12| AND |Progressive Dig Upgrade:2|"
+  },
+  {
+    "name": "Fruit (Digsanity)",
+    "region": "Digsanity",
+    "category": ["Digsanity", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadBonnie()} AND |Dig| AND |Emerald Coin:12| AND |Progressive Dig Upgrade:2|"
+  },
+  {
+    "name": "Pizza (Digsanity)",
+    "region": "Digsanity",
+    "category": ["Digsanity", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadBonnie()} AND |Dig| AND |Emerald Coin:12| AND |Progressive Dig Upgrade:2|"
+  },
+  {
+    "name": "ATK Up (Digsanity)",
+    "region": "Digsanity",
+    "category": ["Digsanity", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadBonnie()} AND |Dig| AND |Emerald Coin:12| AND |Progressive Dig Upgrade:2|"
+  },
+  {
+    "name": "DEF Up (Digsanity)",
+    "region": "Digsanity",
+    "category": ["Digsanity", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadBonnie()} AND |Dig| AND |Emerald Coin:12| AND |Progressive Dig Upgrade:2|"
+  },
+  {
+    "name": "Shield (Digsanity)",
+    "region": "Digsanity",
+    "category": ["Digsanity", "POPGOES: The Dead Forest"],
+    "requires": "{defeatDeadBonnie()} AND |Dig| AND |Emerald Coin:12| AND |Progressive Dig Upgrade:2|"
+  }
+]

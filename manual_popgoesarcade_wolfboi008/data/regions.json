@@ -1,0 +1,56 @@
+{
+  "Enemies": {
+    
+		"connects_to": [],
+    
+		"requires": []
+  },
+  "Abilities": {
+    
+		"connects_to": [],
+    
+		"requires": []
+  },
+  "Forest Keys": {
+    
+		"connects_to": [],
+    
+		"requires": []
+  },
+  "Bosses": {
+    
+		"connects_to": [],
+    
+		"requires": []
+  },
+  "Items": {
+    
+		"connects_to": [],
+    
+		"requires": []
+  },
+  "BB's Black Market": {
+    
+		"connects_to": [],
+    
+		"requires": []
+  },
+  "Holly's Shop": {
+    
+		"connects_to": [],
+    
+		"requires": []
+  },
+  "Fruitsanity": {
+
+    "connects_to": [],
+
+    "requires": []
+  },
+  "Digsanity": {
+
+    "connects_to": [],
+
+    "requires": []
+  }
+}
