@@ -1,6 +1,6 @@
 # Archipelago Manual - POPGOES Arcade
 
-When I heard the game was getting it's final update in July, I felt it. The urge to make a Manual for this game. And so, it shall be done. I'll update this with more info when I'm not confined to my phone. 
+When I heard the game was getting its final update in July (edit: wow this aged badly), I felt it. The urge to make a Manual for this game. And so, it shall be done.
 
 ## Goal
 - Defeat Dead King Freddy, the final boss of POPGOES: The Dead Forest
