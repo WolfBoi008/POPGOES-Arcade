@@ -1,0 +1,331 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "Gilded Hat",
+      "category": [
+        "Persistent Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Ribbon",
+      "category": [
+        "Persistent Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": "27",
+      "name": "HP UP",
+      "category": [
+        "Upgrades"
+      ],
+      "value": {
+        "battle_points": 1
+      },
+      "progression": true
+    },
+    {
+      "count": "26",
+      "name": "ATK UP",
+      "category": [
+        "Upgrades"
+      ],
+      "value": {
+        "battle_points": 1
+      },
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Yellow Gate Key",
+      "category": [
+        "Gate Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Red Gate Key",
+      "category": [
+        "Gate Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Blue Gate Key",
+      "category": [
+        "Gate Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Jump",
+      "category": [
+        "Abilities"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Progressive Jump Upgrade",
+      "category": [
+        "Upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hook",
+      "category": [
+        "Abilities"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Progressive Hook Upgrade",
+      "category": [
+        "Upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dig",
+      "category": [
+        "Abilities"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Progressive Dig Upgrade",
+      "category": [
+        "Upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "count": "12",
+      "name": "Emerald Coin",
+      "category": [
+        "Currrency"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Yellow Door Key",
+      "category": [
+        "Door Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Red Door Key",
+      "category": [
+        "Door Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Blue Door Key",
+      "category": [
+        "Door Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "??? Key",
+      "category": [
+        "???"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Super Speed",
+      "category": [
+        "Abilities"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Quick Pocket",
+      "category": [
+        "Abilities"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Spiky Shield",
+      "category": [
+        "Abilities"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Blue Paint",
+      "count": 1,
+      "category": [
+        "Paints"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Red Paint",
+      "count": 1,
+      "category": [
+        "Paints"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Pink Paint",
+      "count": 1,
+      "category": [
+        "Paints"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Yellow Paint",
+      "count": 1,
+      "category": [
+        "Paints"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Acorn",
+      "count": 1,
+      "category": [
+        "Items"
+      ],
+      "value": {
+        "battle_points": 1
+      },
+      "progression": true
+    },
+    {
+      "name": "Fruit",
+      "count": 1,
+      "category": [
+        "Items"
+      ],
+      "value": {
+        "battle_points": 2
+      },
+      "progression": true
+    },
+    {
+      "name": "Pizza",
+      "count": 1,
+      "category": [
+        "Items"
+      ],
+      "value": {
+        "battle_points": 3
+      },
+      "progression": true
+    },
+    {
+      "name": "ATK Up Consumable",
+      "count": 1,
+      "category": [
+        "Items"
+      ],
+      "value": {
+        "battle_points": 1
+      },
+      "progression": true
+    },
+    {
+      "name": "DEF Up Consumable",
+      "count": 1,
+      "category": [
+        "Items"
+      ],
+      "value": {
+        "battle_points": 2
+      },
+      "progression": true
+    },
+    {
+      "name": "Shield Consumable",
+      "count": 1,
+      "category": [
+        "Items"
+      ],
+      "value": {
+        "battle_points": 3
+      },
+      "progression": true
+    },
+    {
+      "name": "HER Head",
+      "count": 1,
+      "category": [
+        "???",
+        "HER Pieces"
+      ],
+      "progression": true
+    },
+    {
+      "name": "HER Torso",
+      "count": 1,
+      "category": [
+        "???",
+        "HER Pieces"
+      ],
+      "progression": true
+    },
+    {
+      "name": "HER Left Arm",
+      "count": 1,
+      "category": [
+        "???",
+        "HER Pieces"
+      ],
+      "progression": true
+    },
+    {
+      "name": "HER Right Arm",
+      "count": 1,
+      "category": [
+        "???",
+        "HER Pieces"
+      ],
+      "progression": true
+    },
+    {
+      "name": "HER Left Leg",
+      "count": 1,
+      "category": [
+        "???",
+        "HER Pieces"
+      ],
+      "progression": true
+    },
+    {
+      "name": "HER Right Leg",
+      "count": 1,
+      "category": [
+        "???",
+        "HER Pieces"
+      ],
+      "progression": true
+    }
+  ]
+}

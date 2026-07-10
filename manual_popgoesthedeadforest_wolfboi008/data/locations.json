@@ -1,0 +1,1538 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Corrupt Deer",
+      "region": "West Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": []
+    },
+    {
+      "name": "Corrupt Hawk",
+      "region": "West Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|HP UP:1| AND |ATK UP:1|"
+    },
+    {
+      "name": "Corrupt Hedgehog",
+      "region": "West Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|HP UP:3|"
+    },
+    {
+      "name": "Corrupt Chica",
+      "region": "West Forest",
+      "category": [
+        "Bosses"
+      ],
+      "requires": "|Defeat Corrupt Chica|"
+    },
+    {
+      "name": "Blue Paint",
+      "region": "South Forest",
+      "category": [
+        "Paints"
+      ],
+      "requires": []
+    },
+    {
+      "name": "Corrupt Boar",
+      "region": "South Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|HP UP:1| AND |ATK UP:1|"
+    },
+    {
+      "name": "Corrupt Cat",
+      "region": "South Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|HP UP:4| AND |ATK UP:2|"
+    },
+    {
+      "name": "Corrupt Woodpecker",
+      "region": "South Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|HP UP:6| AND |ATK UP:3|"
+    },
+    {
+      "name": "Corrupt Foxy",
+      "region": "South Forest",
+      "category": [
+        "Bosses"
+      ],
+      "requires": "|Defeat Corrupt Foxy|"
+    },
+    {
+      "name": "Corrupt Owl",
+      "region": "East Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|HP UP:4| AND |ATK UP:2|"
+    },
+    {
+      "name": "Corrupt Beaver",
+      "region": "East Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|HP UP:6| AND |ATK UP:3|"
+    },
+    {
+      "name": "Corrupt Wolf",
+      "region": "East Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|HP UP:10| AND |ATK UP:5|"
+    },
+    {
+      "name": "Corrupt Bonnie",
+      "region": "East Forest",
+      "category": [
+        "Bosses"
+      ],
+      "requires": "|Defeat Corrupt Bonnie|"
+    },
+    {
+      "name": "Dead Deer",
+      "region": "Dead Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|Defeat Corrupt Bonnie| AND |@Gate Keys:3| AND |HP UP:6| AND |ATK UP:3|"
+    },
+    {
+      "name": "Dead Boar",
+      "region": "Dead Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|Defeat Corrupt Bonnie| AND |@Gate Keys:3| AND |HP UP:10| AND |ATK UP:5|"
+    },
+    {
+      "name": "Dead Owl",
+      "region": "Dead Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|Defeat Corrupt Bonnie| AND |@Gate Keys:3| AND |HP UP:16| AND |ATK UP:8|"
+    },
+    {
+      "name": "Corrupt BB",
+      "region": "Dead Forest",
+      "category": [
+        "Bosses"
+      ],
+      "requires": "|Defeat Corrupt BB|"
+    },
+    {
+      "name": "Super Speed",
+      "region": "Holly's Shop",
+      "category": [
+        "BB's Black Market"
+      ],
+      "requires": "|Defeat Corrupt BB| AND |HP UP:22| AND |ATK UP:8| AND |Super Speed|"
+    },
+    {
+      "name": "Quick Pocket",
+      "region": "Holly's Shop",
+      "category": [
+        "BB's Black Market"
+      ],
+      "requires": "|Defeat Corrupt BB| AND |HP UP:27| AND |ATK UP:13| AND |Quick Pocket|"
+    },
+    {
+      "name": "Spiky Shield",
+      "region": "Holly's Shop",
+      "category": [
+        "BB's Black Market"
+      ],
+      "requires": "|Defeat Corrupt BB| AND |HP UP:27| AND |ATK UP:13| AND |Spiky Shield|"
+    },
+    {
+      "name": "Yellow Gate Key Chest",
+      "region": "West Forest",
+      "category": [
+        "Keys"
+      ],
+      "requires": "|Defeat Corrupt Chica|"
+    },
+    {
+      "name": "Red Gate Key Chest",
+      "region": "South Forest",
+      "category": [
+        "Keys"
+      ],
+      "requires": "|Defeat Corrupt Foxy|"
+    },
+    {
+      "name": "Blue Gate Key Chest",
+      "region": "East Forest",
+      "category": [
+        "Keys"
+      ],
+      "requires": "|Defeat Corrupt Bonnie|"
+    },
+    {
+      "name": "Corrupt Deer+",
+      "region": "West Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|Defeat Corrupt BB| AND |HP UP:10| AND |ATK UP:5|"
+    },
+    {
+      "name": "Corrupt Hawk+",
+      "region": "West Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|Defeat Corrupt BB| AND |HP UP:16| AND |ATK UP:11|"
+    },
+    {
+      "name": "Corrupt Hedgehog+",
+      "region": "West Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|Defeat Corrupt BB| AND |HP UP:22| AND |ATK UP:8|"
+    },
+    {
+      "name": "Dead Chica",
+      "region": "West Forest",
+      "category": [
+        "Bosses"
+      ],
+      "requires": "|Defeat Dead Chica|"
+    },
+    {
+      "name": "Chica's Pitchfork",
+      "region": "West Forest",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Defeat Dead Chica|"
+    },
+    {
+      "name": "Corrupt Boar+",
+      "region": "South Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|Defeat Corrupt BB| AND |HP UP:16| AND |ATK UP:8|"
+    },
+    {
+      "name": "Corrupt Cat+",
+      "region": "South Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|Defeat Corrupt BB| AND |HP UP:22| AND |ATK UP:11|"
+    },
+    {
+      "name": "Corrupt Woodpecker+",
+      "region": "South Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|Defeat Corrupt BB| AND |HP UP:27| AND |ATK UP:13|"
+    },
+    {
+      "name": "Dead Foxy",
+      "region": "South Forest",
+      "category": [
+        "Bosses"
+      ],
+      "requires": "|Defeat Dead Foxy|"
+    },
+    {
+      "name": "Foxy's Hook",
+      "region": "South Forest",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Defeat Dead Foxy|"
+    },
+    {
+      "name": "Corrupt Owl+",
+      "region": "East Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|Defeat Corrupt BB| AND |HP UP:22| AND |ATK UP:11|"
+    },
+    {
+      "name": "Corrupt Beaver+",
+      "region": "East Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|Defeat Corrupt BB| AND |HP UP:27| AND |ATK UP:13|"
+    },
+    {
+      "name": "Corrupt Wolf+",
+      "region": "East Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|Defeat Corrupt BB| AND |HP UP:27| AND |ATK UP:13|"
+    },
+    {
+      "name": "Dead Bonnie",
+      "region": "East Forest",
+      "category": [
+        "Bosses"
+      ],
+      "requires": "|Defeat Dead Bonnie|"
+    },
+    {
+      "name": "Bonnie's Shovel",
+      "region": "East Forest",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Defeat Dead Bonnie|"
+    },
+    {
+      "name": "Red Paint",
+      "region": "South Forest",
+      "category": [
+        "Paints"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump|"
+    },
+    {
+      "name": "Yellow Door Key Chest",
+      "region": "South Forest",
+      "category": [
+        "Keys"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump|"
+    },
+    {
+      "name": "Pink Paint",
+      "region": "East Forest",
+      "category": [
+        "Paints"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump|"
+    },
+    {
+      "name": "Emerald Coin Chest in East Forest",
+      "region": "East Forest",
+      "category": [
+        "Items"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump|"
+    },
+    {
+      "name": "Shield Item Chest",
+      "region": "Dead Forest",
+      "category": [
+        "Items"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump|"
+    },
+    {
+      "name": "Red Door Key Chest",
+      "region": "East Forest",
+      "category": [
+        "Keys"
+      ],
+      "requires": "|Defeat Dead Foxy| AND |Hook|"
+    },
+    {
+      "name": "Attack Item Chest",
+      "region": "Dead Forest",
+      "category": [
+        "Items"
+      ],
+      "requires": "|Defeat Dead Foxy| AND |Hook|"
+    },
+    {
+      "name": "Defense Item Chest",
+      "region": "Dead Forest",
+      "category": [
+        "Items"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |Dig|"
+    },
+    {
+      "name": "Blue Door Key Chest",
+      "region": "West Forest",
+      "category": [
+        "Keys"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |Dig|"
+    },
+    {
+      "name": "Emerald Coin in Well",
+      "region": "South Forest",
+      "category": [
+        "Items"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |Dig|"
+    },
+    {
+      "name": "Emerald Coin from Sara",
+      "region": "Garden",
+      "category": [
+        "Items"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |@Door Keys:3|"
+    },
+    {
+      "name": "Dead Deer+",
+      "region": "Dead Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |HP UP:27| AND |ATK UP:13|"
+    },
+    {
+      "name": "Dead Boar+",
+      "region": "Dead Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |HP UP:27| AND |ATK UP:13|"
+    },
+    {
+      "name": "Dead Owl+",
+      "region": "Dead Forest",
+      "category": [
+        "Enemies"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |HP UP:27| AND |ATK UP:13|"
+    },
+    {
+      "name": "Dead Forest Castle Emerald Coin 1",
+      "region": "Dead Forest Castle",
+      "category": [
+        "Items"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |@Door Keys:3|"
+    },
+    {
+      "name": "Dead Forest Castle Emerald Coin 2",
+      "region": "Dead Forest Castle",
+      "category": [
+        "Items"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |@Door Keys:3|"
+    },
+    {
+      "name": "??? Key",
+      "region": "Dead Forest Castle",
+      "category": [
+        "Keys"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |@Door Keys:3|"
+    },
+    {
+      "name": "Defeat Dead King Freddy",
+      "region": "Dead Forest Castle",
+      "category": [
+        "Goal"
+      ],
+      "requires": "|Defeat Dead King Freddy|",
+      "victory": true
+    },
+    {
+      "name": "Dead King Freddy",
+      "region": "Dead Forest Castle",
+      "category": [
+        "Bosses"
+      ],
+      "requires": "|Defeat Dead King Freddy|"
+    },
+    {
+      "name": "Yellow Paint",
+      "region": "West Forest",
+      "category": [
+        "Paints"
+      ],
+      "requires": "|Defeat Dead Foxy| AND |Hook|"
+    },
+    {
+      "name": "Emerald Coin Chest in West Forest",
+      "region": "West Forest",
+      "category": [
+        "Items"
+      ],
+      "requires": "|Defeat Dead Foxy| AND |Hook|"
+    },
+    {
+      "name": "West Forest Emerald Coin 1",
+      "region": "West Forest",
+      "category": [
+        "Items"
+      ],
+      "requires": "|Defeat Dead Chica|"
+    },
+    {
+      "name": "West Forest Emerald Coin 2",
+      "region": "West Forest",
+      "category": [
+        "Items"
+      ],
+      "requires": "|Defeat Dead Chica|"
+    },
+    {
+      "name": "South Forest Emerald Coin 1",
+      "region": "South Forest",
+      "category": [
+        "Items"
+      ],
+      "requires": "|Defeat Dead Chica|"
+    },
+    {
+      "name": "South Forest Emerald Coin 2",
+      "region": "South Forest",
+      "category": [
+        "Items"
+      ],
+      "requires": "|Defeat Dead Chica|"
+    },
+    {
+      "name": "East Forest Emerald Coin 1",
+      "region": "East Forest",
+      "category": [
+        "Items"
+      ],
+      "requires": "|Defeat Dead Chica|"
+    },
+    {
+      "name": "East Forest Emerald Coin 2",
+      "region": "East Forest",
+      "category": [
+        "Items"
+      ],
+      "requires": "|Defeat Dead Chica|"
+    },
+    {
+      "name": "Gilded Dead Deer",
+      "region": "Dead Forest",
+      "category": [
+        "Gilded Enemies"
+      ],
+      "requires": "|Defeat Corrupt Bonnie| AND |@Gate Keys:3|"
+    },
+    {
+      "name": "Gilded Corrupt Hawk",
+      "region": "West Forest",
+      "category": [
+        "Gilded Enemies"
+      ],
+      "requires": []
+    },
+    {
+      "name": "Gilded Dead Boar",
+      "region": "Dead Forest",
+      "category": [
+        "Gilded Enemies"
+      ],
+      "requires": "|Defeat Corrupt Bonnie| AND |@Gate Keys:3|"
+    },
+    {
+      "name": "Gilded Cat",
+      "region": "South Forest",
+      "category": [
+        "Gilded Enemies"
+      ],
+      "requires": []
+    },
+    {
+      "name": "Gilded Dead Owl",
+      "region": "Dead Forest",
+      "category": [
+        "Gilded Enemies"
+      ],
+      "requires": "|Defeat Corrupt Bonnie| AND |@Gate Keys:3|"
+    },
+    {
+      "name": "Gilded Beaver",
+      "region": "East Forest",
+      "category": [
+        "Gilded Enemies"
+      ],
+      "requires": []
+    },
+    {
+      "name": "Harvest",
+      "region": "Garden",
+      "category": [
+        "Ability Upgrades"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+    },
+    {
+      "name": "Jump (Battle)",
+      "region": "Garden",
+      "category": [
+        "Ability Upgrades"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump| AND |Emerald Coin:4| AND |Progressive Jump Upgrade:2|"
+    },
+    {
+      "name": "Escape",
+      "region": "Garden",
+      "category": [
+        "Ability Upgrades"
+      ],
+      "requires": "|Defeat Dead Foxy| AND |Hook| AND |Emerald Coin:6| AND |Progressive Hook Upgrade:1|"
+    },
+    {
+      "name": "Hook (Battle)",
+      "region": "Garden",
+      "category": [
+        "Ability Upgrades"
+      ],
+      "requires": "|Defeat Dead Foxy| AND |Hook| AND |Emerald Coin:8| AND |Progressive Hook Upgrade:2|"
+    },
+    {
+      "name": "Tunnel",
+      "region": "Garden",
+      "category": [
+        "Ability Upgrades"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |Dig| AND |Emerald Coin:10| AND |Progressive Dig Upgrade:1|"
+    },
+    {
+      "name": "Dig (Battle)",
+      "region": "Garden",
+      "category": [
+        "Ability Upgrades"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |Dig| AND |Emerald Coin:12| AND |Progressive Dig Upgrade:2|"
+    },
+    {
+      "name": "Health Upgrade 1",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:1|"
+    },
+    {
+      "name": "Health Upgrade 2",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:2|"
+    },
+    {
+      "name": "Health Upgrade 3",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:3|"
+    },
+    {
+      "name": "Health Upgrade 4",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:4|"
+    },
+    {
+      "name": "Health Upgrade 5",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:5|"
+    },
+    {
+      "name": "Health Upgrade 6",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:6|"
+    },
+    {
+      "name": "Health Upgrade 7",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:7|"
+    },
+    {
+      "name": "Health Upgrade 8",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:8|"
+    },
+    {
+      "name": "Health Upgrade 9",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:9|"
+    },
+    {
+      "name": "Health Upgrade 10",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:10|"
+    },
+    {
+      "name": "Health Upgrade 11",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:11|"
+    },
+    {
+      "name": "Health Upgrade 12",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:12|"
+    },
+    {
+      "name": "Health Upgrade 13",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:13|"
+    },
+    {
+      "name": "Health Upgrade 14",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:14|"
+    },
+    {
+      "name": "Health Upgrade 15",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:15|"
+    },
+    {
+      "name": "Health Upgrade 16",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:16|"
+    },
+    {
+      "name": "Health Upgrade 17",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:17|"
+    },
+    {
+      "name": "Health Upgrade 18",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:18|"
+    },
+    {
+      "name": "Health Upgrade 19",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:19|"
+    },
+    {
+      "name": "Health Upgrade 20",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:20|"
+    },
+    {
+      "name": "Health Upgrade 21",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:21|"
+    },
+    {
+      "name": "Health Upgrade 22",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:22|"
+    },
+    {
+      "name": "Health Upgrade 23",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:23|"
+    },
+    {
+      "name": "Health Upgrade 24",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:24|"
+    },
+    {
+      "name": "Health Upgrade 25",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:25|"
+    },
+    {
+      "name": "Health Upgrade 26",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:26|"
+    },
+    {
+      "name": "Health Upgrade 27",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|HP UP:27|"
+    },
+    {
+      "name": "Attack Upgrade 1",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:1|"
+    },
+    {
+      "name": "Attack Upgrade 2",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:2|"
+    },
+    {
+      "name": "Attack Upgrade 3",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:3|"
+    },
+    {
+      "name": "Attack Upgrade 4",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:4|"
+    },
+    {
+      "name": "Attack Upgrade 5",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:5|"
+    },
+    {
+      "name": "Attack Upgrade 6",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:6|"
+    },
+    {
+      "name": "Attack Upgrade 7",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:7|"
+    },
+    {
+      "name": "Attack Upgrade 8",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:8|"
+    },
+    {
+      "name": "Attack Upgrade 9",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:9|"
+    },
+    {
+      "name": "Attack Upgrade 10",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:10|"
+    },
+    {
+      "name": "Attack Upgrade 11",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:11|"
+    },
+    {
+      "name": "Attack Upgrade 12",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:12|"
+    },
+    {
+      "name": "Attack Upgrade 13",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:13|"
+    },
+    {
+      "name": "Attack Upgrade 14",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:14|"
+    },
+    {
+      "name": "Attack Upgrade 15",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:15|"
+    },
+    {
+      "name": "Attack Upgrade 16",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:16|"
+    },
+    {
+      "name": "Attack Upgrade 17",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:17|"
+    },
+    {
+      "name": "Attack Upgrade 18",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:18|"
+    },
+    {
+      "name": "Attack Upgrade 19",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:19|"
+    },
+    {
+      "name": "Attack Upgrade 20",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:20|"
+    },
+    {
+      "name": "Attack Upgrade 21",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:21|"
+    },
+    {
+      "name": "Attack Upgrade 22",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:22|"
+    },
+    {
+      "name": "Attack Upgrade 23",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:23|"
+    },
+    {
+      "name": "Attack Upgrade 24",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:24|"
+    },
+    {
+      "name": "Attack Upgrade 25",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:25|"
+    },
+    {
+      "name": "Attack Upgrade 26",
+      "region": "Holly's Shop",
+      "category": [
+        "Holly's Shop"
+      ],
+      "requires": "|ATK UP:26|"
+    },
+    {
+      "name": "Bonnie",
+      "region": "???",
+      "category": [
+        "Bosses"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |@Door Keys:3| AND |??? Key| AND (({YamlEnabled(her_pieces)} AND |@HER Pieces:6|) OR {YamlDisabled(her_pieces)})"
+    },
+    {
+      "name": "Free Bonnie",
+      "region": "???",
+      "category": [
+        "Goal"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |@Door Keys:3| AND |??? Key| AND (({YamlEnabled(her_pieces)} AND |@HER Pieces:6|) OR {YamlDisabled(her_pieces)})",
+      "victory": true
+    },
+    {
+      "name": "100%",
+      "region": "Dead Forest Castle",
+      "category": [
+        "Goal"
+      ],
+      "requires": "|Defeat Dead King Freddy| AND |??? Key| AND (({YamlEnabled(her_pieces)} AND |@HER Pieces:6|) OR {YamlDisabled(her_pieces)}) AND |@Abilities:6| AND |@Upgrades:59| AND |Emerald Coin:12| AND |@Paints:4|",
+      "victory": true
+    },
+    {
+      "name": "West Forest Fruit 1",
+      "region": "West Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+    },
+    {
+      "name": "West Forest Fruit 2",
+      "region": "West Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+    },
+    {
+      "name": "West Forest Fruit 3",
+      "region": "West Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+    },
+    {
+      "name": "West Forest Fruit 4",
+      "region": "West Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+    },
+    {
+      "name": "West Forest Fruit 5",
+      "region": "West Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Foxy| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1| AND |Hook|"
+    },
+    {
+      "name": "West Forest Fruit 6",
+      "region": "West Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1| AND |Dig|"
+    },
+    {
+      "name": "South Forest Fruit 1",
+      "region": "South Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+    },
+    {
+      "name": "South Forest Fruit 2",
+      "region": "South Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+    },
+    {
+      "name": "South Forest Fruit 3",
+      "region": "South Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+    },
+    {
+      "name": "South Forest Fruit 4",
+      "region": "South Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+    },
+    {
+      "name": "South Forest Fruit 5",
+      "region": "South Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+    },
+    {
+      "name": "South Forest Fruit 6",
+      "region": "South Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+    },
+    {
+      "name": "East Forest Fruit 1",
+      "region": "East Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+    },
+    {
+      "name": "East Forest Fruit 2",
+      "region": "East Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+    },
+    {
+      "name": "East Forest Fruit 3",
+      "region": "East Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+    },
+    {
+      "name": "East Forest Fruit 4",
+      "region": "East Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+    },
+    {
+      "name": "East Forest Fruit 5",
+      "region": "East Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Jump| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1|"
+    },
+    {
+      "name": "East Forest Fruit 6",
+      "region": "East Forest",
+      "category": [
+        "Fruitsanity"
+      ],
+      "requires": "|Defeat Dead Foxy| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1| AND |Hook|"
+    },
+    {
+      "name": "Acorn (Digsanity)",
+      "region": "Garden",
+      "category": [
+        "Digsanity"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |Dig| AND |Emerald Coin:12| AND |Progressive Dig Upgrade:2|"
+    },
+    {
+      "name": "Fruit (Digsanity)",
+      "region": "Garden",
+      "category": [
+        "Digsanity"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |Dig| AND |Emerald Coin:12| AND |Progressive Dig Upgrade:2|"
+    },
+    {
+      "name": "Pizza (Digsanity)",
+      "region": "Garden",
+      "category": [
+        "Digsanity"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |Dig| AND |Emerald Coin:12| AND |Progressive Dig Upgrade:2|"
+    },
+    {
+      "name": "ATK Up (Digsanity)",
+      "region": "Garden",
+      "category": [
+        "Digsanity"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |Dig| AND |Emerald Coin:12| AND |Progressive Dig Upgrade:2|"
+    },
+    {
+      "name": "DEF Up (Digsanity)",
+      "region": "Garden",
+      "category": [
+        "Digsanity"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |Dig| AND |Emerald Coin:12| AND |Progressive Dig Upgrade:2|"
+    },
+    {
+      "name": "Shield (Digsanity)",
+      "region": "Garden",
+      "category": [
+        "Digsanity"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |Dig| AND |Emerald Coin:12| AND |Progressive Dig Upgrade:2|"
+    },
+    {
+      "name": "Potential",
+      "region": "Garden",
+      "category": [
+        "Giftsanity"
+      ],
+      "requires": []
+    },
+    {
+      "name": "Absorption",
+      "region": "Garden",
+      "category": [
+        "Giftsanity"
+      ],
+      "requires": []
+    },
+    {
+      "name": "Persistence",
+      "region": "Garden",
+      "category": [
+        "Giftsanity"
+      ],
+      "requires": []
+    },
+    {
+      "name": "Slingshot",
+      "region": "Garden",
+      "category": [
+        "Giftsanity"
+      ],
+      "requires": "{ItemValue(battle_points:5)}"
+    },
+    {
+      "name": "Vengeance",
+      "region": "Garden",
+      "category": [
+        "Giftsanity"
+      ],
+      "requires": "{ItemValue(battle_points:5)}"
+    },
+    {
+      "name": "Balance",
+      "region": "Garden",
+      "category": [
+        "Giftsanity"
+      ],
+      "requires": "{ItemValue(battle_points:5)}"
+    },
+    {
+      "name": "Tedium",
+      "region": "Garden",
+      "category": [
+        "Giftsanity"
+      ],
+      "requires": "{ItemValue(battle_points:10)}"
+    },
+    {
+      "name": "Sickness",
+      "region": "Garden",
+      "category": [
+        "Giftsanity"
+      ],
+      "requires": "{ItemValue(battle_points:10)}"
+    },
+    {
+      "name": "Reflex",
+      "region": "Garden",
+      "category": [
+        "Giftsanity"
+      ],
+      "requires": "{ItemValue(battle_points:10)}"
+    },
+    {
+      "name": "It Gets Easier",
+      "region": "West Forest",
+      "category": [
+        "Achievements"
+      ],
+      "requires": []
+    },
+    {
+      "name": "Gatecrasher",
+      "region": "Garden",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|Defeat Corrupt Bonnie| AND |@Gate Keys:3|"
+    },
+    {
+      "name": "At Death's Door",
+      "region": "Dead Forest",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |Dig| AND |@Door Keys:3|"
+    },
+    {
+      "name": "Invincible",
+      "region": "Dead Forest",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|HP UP:27| AND |ATK UP:26|"
+    },
+    {
+      "name": "Pop Champ",
+      "region": "South Forest",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|Defeat Dead Chica|"
+    },
+    {
+      "name": "The Chosen One",
+      "region": "Holly's Shop",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|HP UP:27| AND |ATK UP:26|"
+    },
+    {
+      "name": "You Should Be Golden",
+      "region": "East Forest",
+      "category": [
+        "Gilded Enemies",
+        "Achievements"
+      ],
+      "requires": "|Defeat Corrupt Foxy|"
+    },
+    {
+      "name": "Wrapped Up",
+      "region": "Garden",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|Defeat Dead Bonnie|"
+    },
+    {
+      "name": "On The Plus Side",
+      "region": "West Forest",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|Defeat Corrupt BB|"
+    },
+    {
+      "name": "Leave Me Alone!",
+      "region": "South Forest",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|Defeat Dead Foxy| AND |Hook| AND |Emerald Coin:6| AND |Progressive Hook Upgrade:1|"
+    },
+    {
+      "name": "An Apple A Day",
+      "region": "East Forest",
+      "category": [
+        "Fruitsanity",
+        "Achievements"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |Emerald Coin:2| AND |Progressive Jump Upgrade:1| AND |Dig|"
+    },
+    {
+      "name": "Okay, Now I'm Ready",
+      "region": "Holly's Shop",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|ATK Up Consumable| AND |DEF Up Consumable| AND |Shield Consumable|"
+    },
+    {
+      "name": "B Polite, B Efficient",
+      "region": "Holly's Shop",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|Defeat Dead Bonnie|"
+    },
+    {
+      "name": "Coupon And On",
+      "region": "Dead Forest",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|Defeat Dead Bonnie|"
+    },
+    {
+      "name": "Dethroned",
+      "region": "Dead Forest Castle",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|Defeat Dead King Freddy|"
+    },
+    {
+      "name": "Dethroned Ultra",
+      "region": "Dead Forest Castle",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|Defeat Dead King Freddy|"
+    },
+    {
+      "name": "Beastmaster",
+      "region": "Dead Forest",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|Defeat Dead Bonnie|"
+    },
+    {
+      "name": "I'm Sorry I Axed",
+      "region": "South Forest",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|Defeat Dead Bonnie| AND |Dig|"
+    },
+    {
+      "name": "In Its Code",
+      "region": "???",
+      "category": [
+        "Achievements"
+      ],
+      "requires": []
+    },
+    {
+      "name": "Last Breath Drawn",
+      "region": "Garden",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Defeat Dead Foxy| AND |Defeat Dead Bonnie| AND |Dig| AND |@Door Keys:3| AND |??? Key|"
+    },
+    {
+      "name": "Paranormal Inactivity",
+      "region": "???",
+      "category": [
+        "Achievements"
+      ],
+      "requires": []
+    },
+    {
+      "name": "Paranormal Reactivity",
+      "region": "Garden",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|Defeat Dead Chica| AND |Defeat Dead Foxy| AND |Defeat Dead Bonnie| AND |Dig| AND |@Door Keys:3| AND |??? Key|"
+    },
+    {
+      "name": "Spoiled",
+      "region": "Dead Forest",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|Defeat Dead Bonnie|"
+    },
+    {
+      "name": "Happiest Day",
+      "region": "West Forest",
+      "category": [
+        "Achievements"
+      ],
+      "requires": []
+    },
+    {
+      "name": "Saviour Of The Forest",
+      "region": "Dead Forest Castle",
+      "category": [
+        "Achievements"
+      ],
+      "requires": "|Defeat Dead King Freddy| AND |??? Key| AND (({YamlEnabled(her_pieces)} AND |@HER Pieces:6|) OR {YamlDisabled(her_pieces)}) AND |@Abilities:6| AND |@Upgrades:59| AND |Emerald Coin:12| AND |@Paints:4|"
+    }
+  ]
+}

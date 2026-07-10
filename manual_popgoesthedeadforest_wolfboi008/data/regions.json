@@ -1,0 +1,50 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Garden": {
+    "connects_to": [
+      "West Forest",
+      "South Forest",
+      "East Forest",
+      "Dead Forest",
+      "???"
+    ],
+    "requires": [],
+    "starting": true
+  },
+  "West Forest": {
+    "connects_to": [
+      "Holly's Shop"
+    ],
+    "requires": []
+  },
+  "South Forest": {
+    "connects_to": [
+      "Holly's Shop"
+    ],
+    "requires": []
+  },
+  "East Forest": {
+    "connects_to": [
+      "Holly's Shop"
+    ],
+    "requires": []
+  },
+  "Holly's Shop": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Dead Forest": {
+    "connects_to": [
+      "Dead Forest Castle"
+    ],
+    "requires": "|Defeat Corrupt Chica| AND |Defeat Corrupt Foxy| AND |Defeat Corrupt Bonnie| AND |@Gate Keys:3|"
+  },
+  "Dead Forest Castle": {
+    "connects_to": [],
+    "requires": "|Defeat Dead Chica| AND |Defeat Dead Foxy| AND |Defeat Dead Bonnie| AND |Dig| AND |@Door Keys:3|"
+  },
+  "???": {
+    "connects_to": [],
+    "requires": "|Defeat Dead Chica| AND |Defeat Dead Foxy| AND |Defeat Dead Bonnie| AND |Dig| AND |@Door Keys:3| AND |??? Key|"
+  }
+}

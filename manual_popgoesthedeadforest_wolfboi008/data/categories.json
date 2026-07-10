@@ -1,0 +1,34 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.categories.schema.json",
+  "HER Pieces": {
+    "yaml_option": [
+      "her_pieces"
+    ],
+    "hidden": true
+  },
+  "Gilded Enemies": {
+    "yaml_option": [
+      "gilded_enemy_checks"
+    ]
+  },
+  "Fruitsanity": {
+    "yaml_option": [
+      "fruitsanity"
+    ]
+  },
+  "Digsanity": {
+    "yaml_option": [
+      "digsanity"
+    ]
+  },
+  "Giftsanity": {
+    "yaml_option": [
+      "giftsanity"
+    ]
+  },
+  "Achievements": {
+    "yaml_option": [
+      "achievements"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/refs/heads/main/schemas/Manual.events.schema.json",
+  "data": [
+    {
+      "name": "Defeat Corrupt Chica",
+      "requires": "{ItemValue(battle_points:8)}"
+    },
+    {
+      "name": "Defeat Corrupt Foxy",
+      "requires": "{ItemValue(battle_points:16)}"
+    },
+    {
+      "name": "Defeat Corrupt Bonnie",
+      "requires": "{ItemValue(battle_points:24)}"
+    },
+    {
+      "name": "Defeat Corrupt BB",
+      "requires": "{ItemValue(battle_points:32)}"
+    },
+    {
+      "name": "Defeat Dead Chica",
+      "requires": "{ItemValue(battle_points:41)} AND |@Gate Keys:3|"
+    },
+    {
+      "name": "Defeat Dead Foxy",
+      "requires": "{ItemValue(battle_points:49)} AND |@Gate Keys:3| AND |Jump|"
+    },
+    {
+      "name": "Defeat Dead Bonnie",
+      "requires": "{ItemValue(battle_points:57)} AND |@Gate Keys:3| AND |Jump| AND |Hook|"
+    },
+    {
+      "name": "Defeat Dead King Freddy",
+      "requires": "{ItemValue(battle_points:65)} AND |@Gate Keys:3| AND |@Door Keys:3| AND |Jump| AND |Hook| AND |Dig|"
+    }
+  ]
+}
