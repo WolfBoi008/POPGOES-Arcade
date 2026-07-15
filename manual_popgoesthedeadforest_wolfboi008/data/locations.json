@@ -15,7 +15,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|HP UP:1| AND |ATK UP:1|"
+      "requires": "{ItemValue(battle_points:2)}"
     },
     {
       "name": "Corrupt Hedgehog",
@@ -23,7 +23,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|HP UP:3|"
+      "requires": "{ItemValue(battle_points:3)}"
     },
     {
       "name": "Corrupt Chica",
@@ -47,7 +47,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|HP UP:1| AND |ATK UP:1|"
+      "requires": "{ItemValue(battle_points:2)}"
     },
     {
       "name": "Corrupt Cat",
@@ -55,7 +55,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|HP UP:4| AND |ATK UP:2|"
+      "requires": "{ItemValue(battle_points:6)}"
     },
     {
       "name": "Corrupt Woodpecker",
@@ -63,7 +63,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|HP UP:6| AND |ATK UP:3|"
+      "requires": "{ItemValue(battle_points:9)}"
     },
     {
       "name": "Corrupt Foxy",
@@ -79,7 +79,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|HP UP:4| AND |ATK UP:2|"
+      "requires": "{ItemValue(battle_points:6)}"
     },
     {
       "name": "Corrupt Beaver",
@@ -87,7 +87,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|HP UP:6| AND |ATK UP:3|"
+      "requires": "{ItemValue(battle_points:9)}"
     },
     {
       "name": "Corrupt Wolf",
@@ -95,7 +95,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|HP UP:10| AND |ATK UP:5|"
+      "requires": "{ItemValue(battle_points:15)}"
     },
     {
       "name": "Corrupt Bonnie",
@@ -111,7 +111,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|Defeat Corrupt Bonnie| AND |@Gate Keys:3| AND |HP UP:6| AND |ATK UP:3|"
+      "requires": "|Defeat Corrupt Bonnie| AND |@Gate Keys:3| AND {ItemValue(battle_points:9)}"
     },
     {
       "name": "Dead Boar",
@@ -119,7 +119,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|Defeat Corrupt Bonnie| AND |@Gate Keys:3| AND |HP UP:10| AND |ATK UP:5|"
+      "requires": "|Defeat Corrupt Bonnie| AND |@Gate Keys:3| AND {ItemValue(battle_points:15)}"
     },
     {
       "name": "Dead Owl",
@@ -127,7 +127,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|Defeat Corrupt Bonnie| AND |@Gate Keys:3| AND |HP UP:16| AND |ATK UP:8|"
+      "requires": "|Defeat Corrupt Bonnie| AND |@Gate Keys:3| AND {ItemValue(battle_points:24)}"
     },
     {
       "name": "Corrupt BB",
@@ -143,7 +143,7 @@
       "category": [
         "BB's Black Market"
       ],
-      "requires": "|Defeat Corrupt BB| AND |HP UP:22| AND |ATK UP:8| AND |Super Speed|"
+      "requires": "|Defeat Corrupt BB| AND {ItemValue(battle_points:30)} AND |Super Speed|"
     },
     {
       "name": "Quick Pocket",
@@ -151,7 +151,7 @@
       "category": [
         "BB's Black Market"
       ],
-      "requires": "|Defeat Corrupt BB| AND |HP UP:27| AND |ATK UP:13| AND |Quick Pocket|"
+      "requires": "|Defeat Corrupt BB| AND {ItemValue(battle_points:40)} AND |Quick Pocket|"
     },
     {
       "name": "Spiky Shield",
@@ -159,7 +159,7 @@
       "category": [
         "BB's Black Market"
       ],
-      "requires": "|Defeat Corrupt BB| AND |HP UP:27| AND |ATK UP:13| AND |Spiky Shield|"
+      "requires": "|Defeat Corrupt BB| AND {ItemValue(battle_points:40)} AND |Spiky Shield|"
     },
     {
       "name": "Yellow Gate Key Chest",
@@ -191,7 +191,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|Defeat Corrupt BB| AND |HP UP:10| AND |ATK UP:5|"
+      "requires": "|Defeat Corrupt BB| AND {ItemValue(battle_points:15)}"
     },
     {
       "name": "Corrupt Hawk+",
@@ -199,7 +199,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|Defeat Corrupt BB| AND |HP UP:16| AND |ATK UP:11|"
+      "requires": "|Defeat Corrupt BB| AND {ItemValue(battle_points:27)}"
     },
     {
       "name": "Corrupt Hedgehog+",
@@ -207,7 +207,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|Defeat Corrupt BB| AND |HP UP:22| AND |ATK UP:8|"
+      "requires": "|Defeat Corrupt BB| AND {ItemValue(battle_points:30)}"
     },
     {
       "name": "Dead Chica",
@@ -231,7 +231,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|Defeat Corrupt BB| AND |HP UP:16| AND |ATK UP:8|"
+      "requires": "|Defeat Corrupt BB| AND {ItemValue(battle_points:24)}"
     },
     {
       "name": "Corrupt Cat+",
@@ -239,7 +239,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|Defeat Corrupt BB| AND |HP UP:22| AND |ATK UP:11|"
+      "requires": "|Defeat Corrupt BB| AND {ItemValue(battle_points:33)}"
     },
     {
       "name": "Corrupt Woodpecker+",
@@ -247,7 +247,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|Defeat Corrupt BB| AND |HP UP:27| AND |ATK UP:13|"
+      "requires": "|Defeat Corrupt BB| AND {ItemValue(battle_points:40)}"
     },
     {
       "name": "Dead Foxy",
@@ -271,7 +271,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|Defeat Corrupt BB| AND |HP UP:22| AND |ATK UP:11|"
+      "requires": "|Defeat Corrupt BB| AND {ItemValue(battle_points:33)}"
     },
     {
       "name": "Corrupt Beaver+",
@@ -279,7 +279,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|Defeat Corrupt BB| AND |HP UP:27| AND |ATK UP:13|"
+      "requires": "|Defeat Corrupt BB| AND {ItemValue(battle_points:40)}"
     },
     {
       "name": "Corrupt Wolf+",
@@ -287,7 +287,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|Defeat Corrupt BB| AND |HP UP:27| AND |ATK UP:13|"
+      "requires": "|Defeat Corrupt BB| AND {ItemValue(battle_points:40)}"
     },
     {
       "name": "Dead Bonnie",
@@ -399,7 +399,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|Defeat Dead Bonnie| AND |HP UP:27| AND |ATK UP:13|"
+      "requires": "|Defeat Dead Bonnie| AND {ItemValue(battle_points:40)}"
     },
     {
       "name": "Dead Boar+",
@@ -407,7 +407,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|Defeat Dead Bonnie| AND |HP UP:27| AND |ATK UP:13|"
+      "requires": "|Defeat Dead Bonnie| AND {ItemValue(battle_points:40)}"
     },
     {
       "name": "Dead Owl+",
@@ -415,7 +415,7 @@
       "category": [
         "Enemies"
       ],
-      "requires": "|Defeat Dead Bonnie| AND |HP UP:27| AND |ATK UP:13|"
+      "requires": "|Defeat Dead Bonnie| AND {ItemValue(battle_points:40)}"
     },
     {
       "name": "Dead Forest Castle Emerald Coin 1",
@@ -520,7 +520,7 @@
       "category": [
         "Items"
       ],
-      "requires": "|Defeat Dead Chica|"
+      "requires": "|Defeat Dead Foxy| AND |Hook|"
     },
     {
       "name": "Gilded Dead Deer",

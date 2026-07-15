@@ -3,31 +3,31 @@
   "data": [
     {
       "name": "Defeat Corrupt Chica",
-      "requires": "{ItemValue(battle_points:8)}"
+      "requires": "{ItemValue(battle_points:15)}"
     },
     {
       "name": "Defeat Corrupt Foxy",
-      "requires": "{ItemValue(battle_points:16)}"
+      "requires": "{ItemValue(battle_points:27)} AND (|Acorn| OR |Fruit| OR |Pizza|)"
     },
     {
       "name": "Defeat Corrupt Bonnie",
-      "requires": "{ItemValue(battle_points:24)}"
+      "requires": "{ItemValue(battle_points:39)} AND |ATK UP:19|"
     },
     {
       "name": "Defeat Corrupt BB",
-      "requires": "{ItemValue(battle_points:32)}"
+      "requires": "{ItemValue(battle_points:44)} AND |@Gate Keys:3|"
     },
     {
       "name": "Defeat Dead Chica",
-      "requires": "{ItemValue(battle_points:41)} AND |@Gate Keys:3|"
+      "requires": "{ItemValue(battle_points:49)} AND |@Gate Keys:3|"
     },
     {
       "name": "Defeat Dead Foxy",
-      "requires": "{ItemValue(battle_points:49)} AND |@Gate Keys:3| AND |Jump|"
+      "requires": "{ItemValue(battle_points:54)} AND |@Gate Keys:3| AND |Jump| AND |Emerald Coin:4| AND |Progressive Jump Upgrade:2|"
     },
     {
       "name": "Defeat Dead Bonnie",
-      "requires": "{ItemValue(battle_points:57)} AND |@Gate Keys:3| AND |Jump| AND |Hook|"
+      "requires": "{ItemValue(battle_points:59)} AND |@Gate Keys:3| AND |Jump| AND |Hook| AND ((|Emerald Coin:8| AND |Progressive Hook Upgrade:2|) OR |ATK Up Consumable|)"
     },
     {
       "name": "Defeat Dead King Freddy",
